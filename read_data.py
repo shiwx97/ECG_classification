@@ -9,7 +9,7 @@ from preprocessing import *
 
 #使用MIT_BIH Arrhythmia Database数据集
 #使用MLII导联的数据
-path = "C:/Users/shiwx97/Desktop/香港科技大学学习文件/2023自学deep-learning/ECG_learn/ECG_data/mit-bih-arrhythmia-database-1.0.0"
+path = "C:/Users/shiwx97/Desktop/香港科技大学学习文件/2023自学deep-learning/ECG_learn/ECG_data/mit-bih-arrhythmia-database-1.0.0" #you should change it according to your data_path
 files = os.listdir(path)
 names = []
 names_list = []
