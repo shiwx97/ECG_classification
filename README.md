@@ -15,5 +15,7 @@ Numpy
 Scipy
 
 # Run
-## Preprocessing
+## Preprocessing 数据预处理
+$ python
+
 
